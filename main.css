@@ -1,0 +1,11 @@
+header img{
+    float: left;
+    width:100px;
+    height: 100px;
+}
+header h1{
+    padding-top:30px;
+}
+header{
+    position: relative;
+}
