@@ -36,3 +36,15 @@
   grid-column: 1;
   grid-row: 2/4;
 }
+header img{
+    float: left;
+    width:100px;
+    height: 100px;
+}
+header h1{
+    padding-top:30px;
+}
+header{
+    position: relative;
+}
+
