@@ -9,3 +9,7 @@ header h1{
 header{
     position: relative;
 }
+
+#about-us p{
+    font-size: 20px;
+}
